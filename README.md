@@ -11,7 +11,7 @@ This was hastily made by me, for me, so it won't convert files, trim them, or ch
 
 # How To Use:
 1. Create the folders New Sounds and Spectrum wherever you have the .py script.
-2. Open New Sounds and put ONLY sounds in .ogg format in the folder.  No idea what happens when you try other ones; it probably breaks.
+2. Open New Sounds and put ONLY sounds in .ogg format in the folder.  No idea what happens when you try other ones; it probably breaks.  Give your files a reasonably descriptive filename, as the filename is what it will show up as in-game.
 3. Run Earwax Replacer.py.  I do it from command line, but it should work fine just double clicking.
 4. Copy resultant sounds, spectrum files, and EarwaxAudio.jet to the proper locations (back up the originals, leaving ThreeTwoOne.jet intact).  You will find them in The Jackbox Party Pack 2\games\Earwax\content
 5. Run Earwax and enjoy your modded game!
