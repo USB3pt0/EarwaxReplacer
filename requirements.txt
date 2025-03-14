@@ -1,0 +1,7 @@
+numpy
+torch
+soundfile
+pyrubberband
+scipy
+pydub
+TTS

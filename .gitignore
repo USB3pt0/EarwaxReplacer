@@ -2,3 +2,11 @@ New Sounds
 Spectrum
 EarwaxAudio.jet
 desktop.ini
+EarwaxPrompts.jet
+prompts.txt
+EarwaxPrompts
+*.wav
+*.ogg
+rubberband.exe
+sndfile.dll
+venv
